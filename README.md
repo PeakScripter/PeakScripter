@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Yashvardhan Gulyani</h1>
 <h5 align="center">
-A student pursuing Bachelors in Computer science studies with a specialization of AIML, from UPES Dehradun. I am a Web Developer and currently learning Machine Learning. 
+Third-year Computer Science (AIML) student at UPES Dehradun specializing in AI/ML research and advanced web development. Experienced in autonomous deep research agent systems (IBM), CNN architecture enhancement (NIT Kurukshetra), and full-stack development for real-time applications. Proficient with Python, JavaScript, TensorFlow, PyTorch, and React. Passionate about building AI-powered tools, exploring multi-agent systems, and contributing to open source projects.
 </h5>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=peakscripter&label=Profile%20views&color=0e75b6&style=flat" alt="peakscripter" /> </p>
 <p> -->
