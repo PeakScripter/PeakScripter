@@ -49,12 +49,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=peakscripter&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=PeakScripter&show_icons=true&theme=radical&hide_border=true" 
     alt="github stats" 
     height="170"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=peakscripter&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PeakScripter&theme=radical&hide_border=true" 
     alt="streak stats" 
     height="170"
   />
@@ -62,7 +62,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakscripter&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeakScripter&layout=compact&theme=radical&hide_border=true" 
     alt="top languages" 
     height="150"
   />
