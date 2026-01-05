@@ -45,25 +45,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>
 </p>
 
-### 📊 by the numbers
+### 🚀 what i'm building
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PeakScripter&show_icons=true&theme=radical&hide_border=true" 
-    alt="github stats" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PeakScripter&theme=radical&hide_border=true" 
-    alt="streak stats" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeakScripter&layout=compact&theme=radical&hide_border=true" 
-    alt="top languages" 
-    height="150"
-  />
-</p>
+- 🧠 **Agentic AI Workflows** – multi‑agent LLM pipelines for automation, research and content ops  
+- 📊 **Realtime Analytics Dashboards** – event‑driven backends with websockets, streaming & live UI  
+- 🤖 **ML / GenAI Experiments** – finetuning, RAG, evaluation harnesses and small‑model optimizations  
+- 🛠️ **Developer Tools** – CLIs, internal tools and micro‑services that speed up iteration  
