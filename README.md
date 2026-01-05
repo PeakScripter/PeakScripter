@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" />
 </p>
 
-<h1 align="center">hey, i'm yash 👋</h1>
+<h1 align="center">hey, i'm Yashvardhan Gulyani 👋</h1>
 <h3 align="center">building intelligent systems & high‑impact web experiences</h3>
 
 <p align="center">
   <a href="https://www.yashvardhan.online" target="_blank">portfolio</a> •
-  <a href="https://x.com" target="_blank">x / twitter</a> •
-  <a href="mailto:yourmail@example.com" target="_blank">email</a>
+  <a href="https://x.com/Yash_xml" target="_blank">x / twitter</a> •
+  <a href="mailto:yashvardhan49831@gmail.com" target="_blank">email</a>
 </p>
 
 ---
